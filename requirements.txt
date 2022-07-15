@@ -42,7 +42,7 @@ dask==1.1.4
 db==0.1.1
 decorator==4.4.0
 defusedxml==0.5.0
-distributed==1.26.0
+distributed==2021.10.0
 Django==2.2.3
 docutils==0.14
 entrypoints==0.3
